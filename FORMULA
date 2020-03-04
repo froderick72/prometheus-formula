@@ -1,6 +1,6 @@
 name: prometheus
-os: Linux
-os_family: Linux
+os: FreeBSD
+os_family: FreeBSD
 version: 3.3.0
 release: 1
 minimum_version: 2016.11
